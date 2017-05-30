@@ -12,7 +12,7 @@
 ### Select Projects
 
 
-> #### [App Tracker](https://github.com/achasveachas/app-tracker-react)
+#### [App Tracker](https://github.com/achasveachas/app-tracker-react)
 > An online tool for job seekers to track their job applications. It’s a ReactJS/Redux app talking to a Rails API with a PostgreSQL Database on the back end.
 > * Rails API built using a TDD pattern with RSpec
 > * Uses React-Router for RESTful routing
