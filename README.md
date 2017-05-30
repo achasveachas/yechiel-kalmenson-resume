@@ -34,3 +34,16 @@
 > <small>Live Version: [FlyLog](https://flylogger.herokuapp.com/)</small>
 >
 > <small>Blog Post: [Fly Off The Rails](https://blog.yechiel.me/fly-off-the-rails-78f3e4e82e72)</small>
+
+
+* ### [Freddit](https://github.com/achasveachas/freddit-jq)
+> A basic Reddit clone. Originally built using Sinatra, later rebuilt using Rails with jQuery for the front-end.
+The app features threads with nested comments. users are authenticated using bcrypt or GitHub OAuth (in the Rails version).
+> * Built using Rails for the backend of the project
+> * Front-end uses jQuery to render forms, and post content to the DOM
+>
+> <small>Source Code: [Rails/jQuery](https://github.com/achasveachas/freddit-jq), [Sinatra](https://github.com/achasveachas/freddit)
+>
+> <small>Live Version: [FlyLog](https://freddit-jq.herokuapp.com/)</small>
+>
+> <small>Blog Post: [I Challenge You Sinatra](https://blog.yechiel.me/i-challenge-you-sinatra-c6f875e29db7)</small>
