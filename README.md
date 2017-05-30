@@ -17,6 +17,7 @@
 > * Rails API built using a TDD pattern with RSpec
 > * Uses React-Router for RESTful routing
 > * Utilizes JWT Tokens for Client-Side authentication
-> Source Code: [Client-React](https://github.com/achasveachas/app-tracker-react), [API-Rails](https://github.com/achasveachas/app-tracker)
-> Live Version: [App-Tracker](https://app-tracker-react.herokuapp.com/)
-> Blog Post: [Time To OverReact A Bit](https://blog.yechiel.me/reactjs-app-with-rails-api-4ffb12ba6608)
+>
+> <small>Source Code: [Client-React](https://github.com/achasveachas/app-tracker-react), [API-Rails](https://github.com/achasveachas/app-tracker)</small>
+> <small>Live Version: [App-Tracker](https://app-tracker-react.herokuapp.com/)</small>
+> <small>Blog Post: [Time To OverReact A Bit](https://blog.yechiel.me/reactjs-app-with-rails-api-4ffb12ba6608)</small>
