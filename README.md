@@ -8,7 +8,8 @@
 * Familiar with HTML/CSS, Ruby, Rails, Javascript/jQuery, ReactJS
 * Customer-Service people oriented
 * Fluent in English, Hebrew, and Yiddish
----
+
+
 ## Experience
 ### Integration - Tech Support
 #### Fidelity Payment Services – Brooklyn, NY
