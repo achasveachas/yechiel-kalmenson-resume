@@ -26,6 +26,15 @@ Taught Jewish Studies in an online setting for children in remote communities al
 
 **Responsibilities include:** preparing lessons (making sure they are engaging enough for 3rd graders a mouse-click away from YouTube), tracking students’ progress, communicating with parents and faculty via email and phone.
 
+### Outreach Volunteer
+#### Chabad Outreach – International
+*2001 – Present*
+
+Volunteered in various locations around the world.
+
+**Responsibilities include:** organizing holiday events including the largest Passover Seder in the world, teaching both in one-on-one and larger class settings, helping build and translate websites for various Chabad Centers.
+
+
 ---
 ## Select Projects
 
