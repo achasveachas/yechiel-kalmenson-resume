@@ -19,5 +19,7 @@
 > * Utilizes JWT Tokens for Client-Side authentication
 >
 > <small>Source Code: [Client-React](https://github.com/achasveachas/app-tracker-react), [API-Rails](https://github.com/achasveachas/app-tracker)</small>
+>
 > <small>Live Version: [App-Tracker](https://app-tracker-react.herokuapp.com/)</small>
+>
 > <small>Blog Post: [Time To OverReact A Bit](https://blog.yechiel.me/reactjs-app-with-rails-api-4ffb12ba6608)</small>
