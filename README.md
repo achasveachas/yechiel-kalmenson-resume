@@ -18,6 +18,14 @@ Provides integration support to our merchants for physical POS systems as well a
 
 **Responsibilities include:** providing support via phone and email as well as remote sessions, deploying new accounts, researching and providing options for integrating merchants’ existing payment solutions with our software,  researching and compiling reports to management on the performance of the tech-support team.
 
+### Teacher - 3rd Grade
+#### Jewish Online School – Remote
+*2011 – 2015*
+
+Taught Jewish Studies in an online setting for children in remote communities all over the world.
+
+**Responsibilities include:** preparing lessons (making sure they are engaging enough for 3rd graders a mouse-click away from YouTube), tracking students’ progress, communicating with parents and faculty via email and phone.
+
 ---
 ## Select Projects
 
