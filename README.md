@@ -86,3 +86,16 @@ The app features threads with nested comments. users are authenticated using bcr
 > <small>Blog Post: [Of Scaffolds and Gems](https://blog.yechiel.me/of-scaffolds-and-gems-140bdbe2e005#.bn1covkp7)</small>
 
 #### See more of my projects on my [GitHub profile](https://github.com/achasveachas)
+
+
+---
+## Education
+#### Flatiron School
+*2017*
+
+Full Stack Web Development
+
+#### United Lubavitch Yeshivah
+*2010*
+
+Rabbinic Ordination
