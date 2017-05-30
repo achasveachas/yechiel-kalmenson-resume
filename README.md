@@ -47,3 +47,13 @@ The app features threads with nested comments. users are authenticated using bcr
 > <small>Live Version: [FlyLog](https://freddit-jq.herokuapp.com/)</small>
 >
 > <small>Blog Post: [I Challenge You Sinatra](https://blog.yechiel.me/i-challenge-you-sinatra-c6f875e29db7)</small>
+* ### [Corneal](https://github.com/achasveachas/flylog)
+> A Ruby gem that generates the basic structure for Sinatra apps, including Model and Scaffold generators built after the Rails Model and Scaffold generators.
+> * A collaborative Open-Source project
+> * Contributed a Scaffold Generator that uses Thor to generate the MVC structure of a resource
+>
+> <small>Source Code: [GitHub](https://github.com/thebrianemory/corneal)
+>
+> <small>Live Version: [RubyGems]( https://rubygems.org/gems/corneal)</small>
+>
+> <small>Blog Post: [Of Scaffolds and Gems](https://blog.yechiel.me/of-scaffolds-and-gems-140bdbe2e005#.bn1covkp7)</small>
