@@ -10,7 +10,7 @@
 * Fluent in English, Hebrew, and Yiddish
 
 
-## Experience
+* ## Experience
 ### Integration - Tech Support
 #### Fidelity Payment Services – Brooklyn, NY
 *2015 – Present*
