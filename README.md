@@ -12,7 +12,7 @@
 ## Experience
 ### Integration - Tech Support
 #### Fidelity Payment Services – Brooklyn, NY
-2015 – Present
+*2015 – Present*
 
 Provides integration support to our merchants for physical POS systems as well as online payment gateways.
 
