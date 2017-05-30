@@ -9,6 +9,13 @@
 * Customer-Service people oriented
 * Fluent in English, Hebrew, and Yiddish
 ---
+## Experience
+#### Fidelity Payment Services – Brooklyn, NY
+2015 – Present
+### Integration - Tech Support
+Provides integration support to our merchants for physical POS systems as well as online payment gateways.
+**Responsibilities include:** providing support via phone and email as well as remote sessions, deploying new accounts, researching and providing options for integrating merchants’ existing payment solutions with our software,  researching and compiling reports to management on the performance of the tech-support team.
+---
 ## Select Projects
 
 
