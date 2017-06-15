@@ -13,13 +13,30 @@
 * Fluent in English, Hebrew, and Yiddish
 ---
 ## Experience
-### Integration - Tech Support
+### Technical Coach
+#### Flatiron School - Remote
+*2017 – Present*
+
+Help students work out their challenges on their way to learning how to code.
+
+**Responsibilities include:** using the Socratic Method to help students reach their own solutions, screen-sharing in real time to help tutor students, review code in HTML/CSS, Ruby/Rails, Sinatra, SQL, JavaScript, Angular, React.
+
+### Integration Specialist
 #### Fidelity Payment Services – Brooklyn, NY
-*2015 – Present*
+*2016 – Present*
 
-Provides integration support to our merchants for physical POS systems as well as online payment gateways.
+Provides integration and general tech related support to our merchants.
 
-**Responsibilities include:** providing support via phone and email as well as remote sessions, deploying new accounts, researching and providing options for integrating merchants’ existing payment solutions with our software,  researching and compiling reports to management on the performance of the tech-support team.
+**Responsibilities include:** providing integration support via phone and email as well as remote sessions, deploying new accounts, researching and providing options for integrating merchants’ existing payment solutions with our hardware and software.
+
+### Tech Support
+#### Fidelity Payment Services – Brooklyn, NY
+*2015 – 2016*
+
+Provided technical support to our merchants for their standalone POS devices and online payment gateways.
+
+**Responsibilities included:** providing technical support via phone and email as well as remote sessions, deploying new accounts.
+
 
 ### Teacher - 3rd Grade
 #### Jewish Online School – Remote
@@ -27,7 +44,7 @@ Provides integration support to our merchants for physical POS systems as well a
 
 Taught Jewish Studies in an online setting for children in remote communities all over the world.
 
-**Responsibilities include:** preparing lessons (making sure they are engaging enough for 3rd graders a mouse-click away from YouTube), tracking students’ progress, communicating with parents and faculty via email and phone.
+**Responsibilities included:** preparing lessons (making sure they are engaging enough for 3rd graders a mouse-click away from YouTube), tracking students’ progress, communicating with parents and faculty via email and phone.
 
 ### Outreach Volunteer
 #### Chabad Outreach – International
@@ -35,7 +52,7 @@ Taught Jewish Studies in an online setting for children in remote communities al
 
 Volunteered in various locations around the world.
 
-**Responsibilities include:** organizing holiday events including the largest Passover Seder in the world, teaching both in one-on-one and larger class settings, helping build and translate websites for various Chabad Centers.
+**Responsibilities included:** organizing holiday events including the largest Passover Seder in the world, teaching both in one-on-one and larger class settings, helping build and translate websites for various Chabad Centers.
 
 
 ---
