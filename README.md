@@ -3,7 +3,7 @@
 
 347-500-0422 | hire@yechiel.me | GitHub [achasveachas](https://github.com/achasveachas) | Portfolio: [yechiel.me](http://yechiel.me)
 
-[Google Docs Resume](https://docs.google.com/document/d/1JJnumsyJtp5blSvjh_hojpawe4giP5MRddIAKmYnEFY/), [PDF](/Yechiel-Kalmenson.pdf)
+[Google Docs Resume](https://docs.google.com/presentation/d/1TOUgsnMvl1PLQneb_Kk_r6Pe95-eQcmT5WXbXAQznSM/edit?usp=sharing), [PDF](/Yechiel-Kalmenson-Resume.pdf)
 
 ***
 ### Professional Highlights
