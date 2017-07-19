@@ -8,7 +8,7 @@
 ***
 ### Professional Highlights
 * Experience working, teaching, and learning remotely
-* Familiar with HTML/CSS, Ruby, Rails, Javascript/jQuery, ReactJS
+* Familiar with HTML/CSS, Ruby, Sinatra, Rails, SQL, TDD, Javascript/jQuery, ReactJS, AngularJS
 * Customer-Service people oriented
 * Fluent in English, Hebrew, and Yiddish
 ---
