@@ -27,7 +27,7 @@ Help students work out their challenges on their way to learning how to code.
 
 Provides integration and general tech related support to our merchants.
 
-**Responsibilities include:** providing integration support via phone and email as well as remote sessions, deploying new accounts, researching and providing options for integrating merchants’ existing payment solutions with our hardware and software.
+**Responsibilities include:** providing integration support via phone and email as well as remote sessions, deploying new accounts, researching and providing options for integrating merchants’ existing payment solutions with our hardware and software, created a React app to help the Integration Department keep track of compatible Payment Gateways.
 
 ### Tech Support
 #### Fidelity Payment Services – Brooklyn, NY
