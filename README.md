@@ -71,7 +71,7 @@ Volunteered in various locations around the world.
 >
 > <small>Blog Post: [Time To OverReact A Bit](https://blog.yechiel.me/reactjs-app-with-rails-api-4ffb12ba6608)</small>
 
-* ### [App Tracker](https://github.com/achasveachas/app-tracker-react)
+* ### [Gateway Compatibility List](https://github.com/achasveachas/compatibility-list-client)
 > An app built off of my App Tracker to help my Integrations Department keep track of which Payment Gateways we integrate with.
 > * Rails REST API built using a TDD pattern with RSpec
 > * Uses React-Router for RESTful routing
