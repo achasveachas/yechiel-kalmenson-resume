@@ -19,7 +19,7 @@
 
 Provides integration and general tech related support to our merchants.
 
-**Responsibilities include:** providing integration support via phone and email as well as remote sessions, deploying new accounts, researching and providing options for integrating merchants’ existing payment solutions with our hardware and software, created a React app to help the Integration Department keep track of compatible Payment Gateways.
+**Responsibilities include:** wrote a React/Rails app to help the Integrations Department keep track of incoming integration requests, providing integration support via phone and email as well as remote sessions, deploying new accounts, researching and providing options for integrating merchants’ existing payment solutions with our hardware and software, created a React app to help the Integration Department keep track of compatible Payment Gateways.
 
 ### Technical Coach
 #### Flatiron School - Remote
@@ -67,7 +67,7 @@ Volunteered in various locations around the world.
 >
 > <small>Source Code: [Client-React](https://github.com/achasveachas/app-tracker-react), [API-Rails](https://github.com/achasveachas/app-tracker)</small>
 >
-> <small>Live Version: [App-Tracker](https://app-tracker-react.herokuapp.com/)</small>
+> <small>Live Version: [App-Tracker](https://app-tracker-react.herokuapp.com/) (Demo Username: demo, Password: demouser)</small>
 >
 > <small>Blog Post: [Time To OverReact A Bit](https://blog.yechiel.me/reactjs-app-with-rails-api-4ffb12ba6608)</small>
 
@@ -89,7 +89,7 @@ Volunteered in various locations around the world.
 >
 > <small>Source Code: [GitHub](https://github.com/achasveachas/flylog)
 >
-> <small>Live Version: [FlyLog](https://flylogger.herokuapp.com/)</small>
+> <small>Live Version: [FlyLog](https://flylogger.herokuapp.com/) (Demo Username: demo@yechiel.me, Password: demouser)</small>
 >
 > <small>Blog Post: [Fly Off The Rails](https://blog.yechiel.me/fly-off-the-rails-78f3e4e82e72)</small>
 
@@ -102,9 +102,10 @@ The app features threads with nested comments. users are authenticated using bcr
 >
 > <small>Source Code: [Rails/jQuery](https://github.com/achasveachas/freddit-jq), [Sinatra](https://github.com/achasveachas/freddit)
 >
-> <small>Live Version: [FlyLog](https://freddit-jq.herokuapp.com/)</small>
+> <small>Live Version: [Freddit](https://freddit-jq.herokuapp.com/) (Demo Username: demouser, Password: demouser)</small>
 >
 > <small>Blog Post: [I Challenge You Sinatra](https://blog.yechiel.me/i-challenge-you-sinatra-c6f875e29db7)</small>
+
 * ### [Corneal](https://github.com/thebrianemory/corneal)
 > A Ruby gem that generates the basic structure for Sinatra apps, including Model and Scaffold generators built after the Rails Model and Scaffold generators.
 > * A collaborative Open-Source project
