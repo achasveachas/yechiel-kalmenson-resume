@@ -13,25 +13,25 @@
 * Fluent in English, Hebrew, and Yiddish
 ---
 ## Experience
-### Technical Coach
-#### Flatiron School - Remote
-*2017 – Present*
-
-Help students work out their challenges on their way to learning how to code.
-
-**Responsibilities include:** using the Socratic Method to help students reach their own solutions, screen-sharing in real time to help tutor students, review code in HTML/CSS, Ruby/Rails, Sinatra, SQL, JavaScript, Angular, React.
-
 ### Integration Specialist
 #### Fidelity Payment Services – Brooklyn, NY
-*2016 – Present*
+*December 2016 – Present*
 
 Provides integration and general tech related support to our merchants.
 
 **Responsibilities include:** providing integration support via phone and email as well as remote sessions, deploying new accounts, researching and providing options for integrating merchants’ existing payment solutions with our hardware and software, created a React app to help the Integration Department keep track of compatible Payment Gateways.
 
+### Technical Coach
+#### Flatiron School - Remote
+*June 2017 – September 2017*
+
+Help students work out their challenges on their way to learning how to code.
+
+**Responsibilities include:** using the Socratic Method to help students reach their own solutions, screen-sharing in real time to help tutor students, review code in HTML/CSS, Ruby/Rails, Sinatra, SQL, JavaScript, Angular, React.
+
 ### Tech Support
 #### Fidelity Payment Services – Brooklyn, NY
-*2015 – 2016*
+*June 2015 – December 2016*
 
 Provided technical support to our merchants for their standalone POS devices and online payment gateways.
 
@@ -40,7 +40,7 @@ Provided technical support to our merchants for their standalone POS devices and
 
 ### Teacher - 3rd Grade
 #### Jewish Online School – Remote
-*2011 – 2015*
+*September 2011 – June 2015*
 
 Taught Jewish Studies in an online setting for children in remote communities all over the world.
 
