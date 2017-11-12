@@ -58,6 +58,17 @@ Volunteered in various locations around the world.
 ---
 ## Select Projects
 
+* ### [Gateway Compatibility List](https://github.com/achasveachas/compatibility-list-client)
+> An app I built to help the Integrations Department at Fidelity Payment Services keep track of which payment gateways and shopping carts they integrate with.
+> * Rails REST API built using a TDD pattern with RSpec
+> * Uses React-Router for RESTful routing
+> * Utilizes JWT Tokens for Client-Side authentication
+> * Uses the AXLSX Rails gem to export the data as an Excel sheet.
+>
+> <small>Source Code: [Client-React](https://github.com/achasveachas/compatibility-list-client), [API-Rails](https://github.com/achasveachas/compatibility-list-api)</small>
+>
+> <small>Blog Post: [From Job Applications To Compatibility Lists](https://blog.yechiel.me/from-job-applications-to-compatibility-lists-6e6a2068a556)</small>
+
 
 * ### [App Tracker](https://github.com/achasveachas/app-tracker-react)
 > An online tool for job seekers to track their job applications. It’s a ReactJS/Redux app talking to a Rails RESTful API with a PostgreSQL Database on the back end.
@@ -71,16 +82,6 @@ Volunteered in various locations around the world.
 >
 > <small>Blog Post: [Time To OverReact A Bit](https://blog.yechiel.me/reactjs-app-with-rails-api-4ffb12ba6608)</small>
 
-* ### [Gateway Compatibility List](https://github.com/achasveachas/compatibility-list-client)
-> An app built off of my App Tracker to help my Integrations Department keep track of which Payment Gateways we integrate with.
-> * Rails REST API built using a TDD pattern with RSpec
-> * Uses React-Router for RESTful routing
-> * Utilizes JWT Tokens for Client-Side authentication
-> * Uses the AXLSX Rails gem to export the data as an Excel sheet.
->
-> <small>Source Code: [Client-React](https://github.com/achasveachas/compatibility-list-client), [API-Rails](https://github.com/achasveachas/compatibility-list-api)</small>
->
-> <small>Blog Post: [From Job Applications To Compatibility Lists](https://blog.yechiel.me/from-job-applications-to-compatibility-lists-6e6a2068a556)</small>
 
 * ### [FlyLog](https://github.com/achasveachas/flylog)
 > An online pilot logbook, where pilots can log their flight hours.
