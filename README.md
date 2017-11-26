@@ -1,7 +1,7 @@
 # Yechiel Kalmenson
 **Full-Stack Web Developer**
 
-Email: hire@yechiel.me | GitHub: [achasveachas](https://github.com/achasveachas) | Website: [yechiel.me](http://yechiel.me) | Blog: [RabbiOnRails.io](http://rabionrails.io)
+Email: hire@yechiel.me | GitHub: [achasveachas](https://github.com/achasveachas) | Website: [Yechiel.me](http://yechiel.me) | Blog: [RabbiOnRails.io](http://rabionrails.io) | Twitter: [@yechielk](https://twitter.com/yechielk)
 
 [PDF Resume](http://yechiel.me/resume)
 
