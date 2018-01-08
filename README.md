@@ -13,21 +13,29 @@ Email: hire@yechiel.me | GitHub: [achasveachas](https://github.com/achasveachas)
 * Fluent in English, Hebrew, and Yiddish
 ---
 ## Experience
+### Full-Stack Developer
+#### Newtek Business Services – Lake Success, NY
+*January 2018 – Present*
+
+Maintain and develop the company's legacy PHP applications
+
+**Responsibilities include:** maintain the companny's legacy PHP applications, add functionality and feature requests requested by management, upgrade the codebase to comply with moders standards.
+
 ### Integration Specialist
 #### Fidelity Payment Services – Brooklyn, NY
-*December 2016 – Present*
+*December 2016 – January 2018*
 
-Provides integration and general tech related support to our merchants.
+Provided integration and general tech related support to our merchants.
 
-**Responsibilities include:** wrote a React/Rails app to help the Integrations Department keep track of incoming integration requests, providing integration support via phone and email as well as remote sessions, deploying new accounts, researching and providing options for integrating merchants’ existing payment solutions with our hardware and software, created a React app to help the Integration Department keep track of compatible Payment Gateways.
+**Responsibilities included:** wrote a React/Rails app to help the Integrations Department keep track of incoming integration requests, providing integration support via phone and email as well as remote sessions, deploying new accounts, researching and providing options for integrating merchants’ existing payment solutions with our hardware and software, created a React app to help the Integration Department keep track of compatible Payment Gateways.
 
 ### Technical Coach
 #### Flatiron School - Remote
 *June 2017 – September 2017*
 
-Help students work out their challenges on their way to learning how to code.
+Helped students work out their challenges on their way to learning how to code.
 
-**Responsibilities include:** using the Socratic Method to help students reach their own solutions, screen-sharing in real time to help tutor students, review code in HTML/CSS, Ruby/Rails, Sinatra, SQL, JavaScript, Angular, React.
+**Responsibilities included:** using the Socratic Method to help students reach their own solutions, screen-sharing in real time to help tutor students, review code in HTML/CSS, Ruby/Rails, Sinatra, SQL, JavaScript, Angular, React.
 
 ### Tech Support
 #### Fidelity Payment Services – Brooklyn, NY
