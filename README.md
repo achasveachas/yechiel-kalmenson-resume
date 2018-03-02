@@ -8,7 +8,7 @@ Email: hire@yechiel.me | GitHub: [achasveachas](https://github.com/achasveachas)
 ***
 ### Professional Highlights
 * Experience working, teaching, and learning remotely
-* Familiar with HTML/CSS, Ruby, Sinatra, Rails, SQL, TDD, Javascript/jQuery, ReactJS, AngularJS
+* Familiar with HTML/CSS, PHP, Ruby, Sinatra, Rails, SQL, TDD, Javascript/jQuery, React
 * Spent time in the FinTech industry, and familiar with all aspects of Payment Processing
 * Fluent in English, Hebrew, and Yiddish
 ---
@@ -19,7 +19,7 @@ Email: hire@yechiel.me | GitHub: [achasveachas](https://github.com/achasveachas)
 
 Maintain and develop the company's legacy PHP applications
 
-**Responsibilities include:** maintain the companny's legacy PHP applications, add functionality and feature requests requested by management, upgrade the codebase to comply with moders standards.
+**Responsibilities include:** Maintained the company’s legacy PHP applications, triaged and fixed bug reports and new feature requests, got rid of security holes in some of the older parts of the code 
 
 ### Integration Specialist
 #### Fidelity Payment Services – Brooklyn, NY
