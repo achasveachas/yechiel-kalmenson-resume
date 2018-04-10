@@ -66,6 +66,19 @@ Volunteered in various locations around the world.
 ---
 ## Select Projects
 
+* ### [Alternate Side Bot](https://github.com/achasveachas/alternate-side-bot-twilio)
+> A Twitter bot that retweets whenever Alternate Side Parking rules are suspended in New York City. Users can also subscribe to get SMS notifications or call in to get the latests status.
+> * Twitter bot was built in NodeJS 
+> * Added a Ruby app that uses the Twilio API to let users subscribe using an SMS message from their phone
+> * The Ruby/Twilio app also lets users call in to hear a voice recording of the latest status.
+> 
+> <small>Twitter Account: [@AlterSideBot](https://twitter.com/AlterSideBot)</small>
+>
+> <small>Source Code: [Twitter Bot](https://github.com/achasveachas/alternate-side-bot), [Twilio App](https://github.com/achasveachas/alternate-side-bot-twilio)</small>
+>
+> <small>Blog Post: [Add SMS Notifications to Your Rails App Using Twilio](https://blog.yechiel.me/sms-notifications-ruby-on-rails-202671ca8b85)</small>
+
+
 * ### [Gateway Compatibility List](https://github.com/achasveachas/compatibility-list-client)
 > An app I built to help the Integrations Department at Fidelity Payment Services keep track of which payment gateways and shopping carts they integrate with.
 > * Rails REST API built using a TDD pattern with RSpec
