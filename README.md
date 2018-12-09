@@ -17,7 +17,7 @@ Email: hire@yechiel.me | GitHub: [achasveachas](https://github.com/achasveachas)
 #### Pivotal - Cloud Foundry
 *January 2018 – November 2018*
 
-Helped make Clid Foundry compatible with Windows servers.
+Helped make Cloud Foundry compatible with Windows servers.
 
 ### Full-Stack Developer
 #### Newtek Business Services – Lake Success, NY
