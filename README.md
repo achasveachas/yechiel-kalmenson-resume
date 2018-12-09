@@ -1,5 +1,5 @@
 # Yechiel Kalmenson
-**Full-Stack Web Developer**
+**Software Engineer**
 
 Email: hire@yechiel.me | GitHub: [achasveachas](https://github.com/achasveachas) | Website: [Yechiel.me](http://yechiel.me?company=resume) | Blog: [RabbiOnRails.io](http://rabionrails.io) | Twitter: [@yechielk](https://twitter.com/yechielk)
 
@@ -13,54 +13,48 @@ Email: hire@yechiel.me | GitHub: [achasveachas](https://github.com/achasveachas)
 * Fluent in English, Hebrew, and Yiddish
 ---
 ## Experience
+### Software Engineer
+#### Pivotal - Cloud Foundry
+*January 2018 – November 2018*
+
+Helped make Clid Foundry compatible with Windows servers.
+
 ### Full-Stack Developer
 #### Newtek Business Services – Lake Success, NY
-*January 2018 – Present*
+*January 2018 – November 2018*
 
-Maintain and develop the company's legacy PHP applications
-
-**Responsibilities include:** Maintained the company’s legacy PHP applications, triaged and fixed bug reports and new feature requests, got rid of security holes in some of the older parts of the code 
+Maintained the company’s legacy PHP applications, triaged and fixed bug reports and new feature requests, got rid of security holes in some of the older parts of the code 
 
 ### Integration Specialist
 #### Fidelity Payment Services – Brooklyn, NY
 *December 2016 – January 2018*
 
-Provided integration and general tech related support to our merchants.
-
-**Responsibilities included:** wrote a React/Rails app to help the Integrations Department keep track of incoming integration requests, providing integration support via phone and email as well as remote sessions, deploying new accounts, researching and providing options for integrating merchants’ existing payment solutions with our hardware and software, created a React app to help the Integration Department keep track of compatible Payment Gateways.
+Provided integration and general tech related support to our merchants, wrote a React/Rails app to help the Integrations Department keep track of incoming integration requests, providing integration support via phone and email as well as remote sessions, deploying new accounts, researching and providing options for integrating merchants’ existing payment solutions with our hardware and software, created a React app to help the Integration Department keep track of compatible Payment Gateways.
 
 ### Technical Coach
 #### Flatiron School - Remote
 *June 2017 – September 2017*
 
-Helped students work out their challenges on their way to learning how to code.
-
-**Responsibilities included:** using the Socratic Method to help students reach their own solutions, screen-sharing in real time to help tutor students, review code in HTML/CSS, Ruby/Rails, Sinatra, SQL, JavaScript, Angular, React.
+Helped students work out their challenges on their way to learning how to code, using the Socratic Method to help students reach their own solutions, screen-sharing in real time to help tutor students, review code in HTML/CSS, Ruby/Rails, Sinatra, SQL, JavaScript, Angular, React.
 
 ### Tech Support
 #### Fidelity Payment Services – Brooklyn, NY
 *June 2015 – December 2016*
 
-Provided technical support to our merchants for their standalone POS devices and online payment gateways.
-
-**Responsibilities included:** providing technical support via phone and email as well as remote sessions, deploying new accounts.
+Providing technical support via phone and email as well as remote sessions, deploying new accounts.
 
 
 ### Teacher - 3rd Grade
 #### Jewish Online School – Remote
 *September 2011 – June 2015*
 
-Taught Jewish Studies in an online setting for children in remote communities all over the world.
-
-**Responsibilities included:** preparing lessons (making sure they are engaging enough for 3rd graders a mouse-click away from YouTube), tracking students’ progress, communicating with parents and faculty via email and phone.
+Taught Jewish Studies in an online setting for children in remote communities all over the world, preparing lessons (making sure they are engaging enough for 3rd graders a mouse-click away from YouTube), tracking students’ progress, communicating with parents and faculty via email and phone.
 
 ### Outreach Volunteer
 #### Chabad Outreach – International
 *2001 – Present*
 
-Volunteered in various locations around the world.
-
-**Responsibilities included:** organizing holiday events including the largest Passover Seder in the world, teaching both in one-on-one and larger class settings, helping build and translate websites for various Chabad Centers.
+Organizing holiday events including the largest Passover Seder in the world, teaching both in one-on-one and larger class settings, helping build and translate websites for various Chabad Centers.
 
 
 ---
