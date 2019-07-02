@@ -17,8 +17,8 @@ Email: hire@yechiel.me | GitHub: [achasveachas](https://github.com/achasveachas)
 #### Pivotal - Cloud Foundry
 *January 2018 – November 2018*
 
-Helped make Cloud Foundry compatible with Windows servers.
-
+- Worked to make Cloud Foundry compatible with Windows servers.
+- Worked on a Windows implementation of [Envoy Proxy](https://www.envoyproxy.io/)
 ### Full-Stack Developer
 #### Newtek Business Services – Lake Success, NY
 *January 2018 – November 2018*
