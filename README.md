@@ -81,6 +81,18 @@ Organizing holiday events including the largest Passover Seder in the world, tea
 
 ## Select Projects
 
+* ### [Hug Bot](https://github.com/achasveachas/hug-bot)
+
+> A Twitter bot that tweets a gif with a hug every few hours
+>
+> * Twitter bot was built in Python using the Tweepy library and the giphy API.
+>
+> <small>Twitter Account: [@ICanHazHugzPlz](https://twitter.com/ICanHazHugzPlz)</small>
+>
+> <small>Source Code: [GitHub](https://github.com/achasveachas/hug-bot)</small>
+>
+> <small>Blog Post: [Need a hug? There's a bot for that!](https://dev.to/yechielk/need-a-hug-there-s-a-bot-for-that-4bim)</small>
+
 * ### [Alternate Side Bot](https://github.com/achasveachas/alternate-side-bot-twilio)
 
 > A Twitter bot that retweets whenever Alternate Side Parking rules are suspended in New York City. Users can also subscribe to get SMS notifications or call in to get the latests status.
