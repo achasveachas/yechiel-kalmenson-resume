@@ -21,12 +21,13 @@ Email: hire@yechiel.me | GitHub: [achasveachas](https://github.com/achasveachas)
 
 ### Software Engineer
 
-#### Pivotal - Cloud Foundry
+#### VMware - Pivotal - Cloud Foundry
 
 *November 2018 - Present*
 
 * Worked to make Cloud Foundry compatible with Windows servers.
 * Worked on a Windows implementation of [Envoy Proxy](https://www.envoyproxy.io/)
+* Collected telemetry on the use of our products and presented the insights collected to product account teams and customers.
 
 ### Full-Stack Developer
 
