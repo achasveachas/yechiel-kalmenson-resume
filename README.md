@@ -2,7 +2,7 @@
 
 ## Software Engineer
 
-Email: hire@yechiel.me | GitHub: [achasveachas](https://github.com/achasveachas) | Website: [Yechiel.me](http://yechiel.me?company=resume) | Blog: [RabbiOnRails.io](http://rabionrails.io) | Twitter: [@yechielk](https://twitter.com/yechielk)
+Email: hire@yechiel.me | GitHub: [achasveachas](https://github.com/achasveachas) | Website: [Yechiel.me](https://yechiel.me) | Blog: [Rabbi On Rails](http://blog.yechiel.me)
 
 [PDF Resume](http://yechiel.me/resume)
 
